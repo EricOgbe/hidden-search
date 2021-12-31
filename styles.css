@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+.input-icons i {
+    position: absolute;
+    padding: 3px;
+    left: 0%;
+    cursor: pointer;
+}
+  
+.input-icons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+}
+input {
+    width: 15px;
+    transition: 0.1s ease-in;
+}
+
